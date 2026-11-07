@@ -14,7 +14,7 @@
 I build reliable business software for regulated industries, and I ship it with tests, documentation and CI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fikar4f-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikar4f)
-[![Email](https://img.shields.io/badge/Email-<YOUR_EMAIL>-D14836?logo=gmail&logoColor=white)](mailto:dzulfikar.maulana@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dzulfikar.maulana@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:dzulfikar.maulana@gmail.com)
 [![Open to](https://img.shields.io/badge/Open%20to-remote%20roles%20worldwide-2ea44f)](https://www.linkedin.com/in/fikar4f)
 
 </div>
