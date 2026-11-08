@@ -38,7 +38,7 @@ A tax-transaction monitoring system modelled on regional revenue-office (e-tax /
 | **Stack** | FastAPI · PostgreSQL (SQLAlchemy 2, Alembic) · Next.js 14 · Docker · GitHub Actions |
 | **Quality** | 71 backend tests (~98% coverage) · 10 regression tests · 8 Playwright E2E tests · 24 manual test cases |
 | **Docs** | Architecture, UML (Mermaid), API reference, test plan, security notes |
-| **Links** | [Repository](https://github.com/gekif/taxwatch) · [Demo video](<VIDEO_URL>) |
+| **Links** | [Repository](https://github.com/gekif/taxwatch) · [Demo Apps](https://taxwatch-g58j.vercel.app) |
 | **Run it yourself** | Local setup in a few commands; see the repository README (screenshots included) |
 
 ## Tech stack
